@@ -42,6 +42,7 @@ NekoNekoNyaa-Manager is a comprehensive management system designed for the Neko 
 2. Download [source code](https://github.com/kazcfz/NekoNekoNyaa-Manager/releases)
 3. Open the project (tested on Visual Studio Code) **OR** use .NET CLI
 4. Run `dotnet run`
+5. Refer to [README.txt](https://github.com/kazcfz/NekoNekoNyaa-Manager/blob/main/README.txt) as your key around the system
 <br><br>
 
 ## Screenshot Preview
