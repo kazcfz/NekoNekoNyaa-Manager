@@ -48,3 +48,4 @@ NekoNekoNyaa Manager is a comprehensive management system designed for the Neko 
 ## Screenshot Preview
 ![](https://i.imgur.com/WKt3A1K.png)
 ![](https://i.imgur.com/M9qJ3j5.png)
+![](https://i.imgur.com/hYVlu0B.png)
