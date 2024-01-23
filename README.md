@@ -2,8 +2,8 @@
     <img src="https://i.imgur.com/LTVnTvu.png" alt="Mole" width="200" height="200">
 </p>
 
-# NekoNekoNyaa-Manager
-NekoNekoNyaa-Manager is a comprehensive management system designed for the Neko Neko Nyaa hobby shop. This application provides a centralized solution for efficiently handling various aspects of the hobby shop operations, catering to both the manager and the shop admin.
+# NekoNekoNyaa Manager
+NekoNekoNyaa Manager is a comprehensive management system designed for the Neko Neko Nyaa hobby shop. This application provides a centralized solution for efficiently handling various aspects of the hobby shop operations, catering to both the manager and the shop admin.
 <br><br>
 
 ## Features
