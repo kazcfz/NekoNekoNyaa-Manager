@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/LTVnTvu.png" alt="Mole" width="200" height="200">
+    <img src="https://i.imgur.com/LTVnTvu.png" alt="Mole" width="20%" height="20%">
 </p>
 
 # NekoNekoNyaa Manager
